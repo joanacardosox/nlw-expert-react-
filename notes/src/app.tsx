@@ -2,7 +2,7 @@ import { ChangeEvent, useEffect, useState } from "react";
 import logo from "./assets/Logo-nlw-expert.svg";
 import { NewNoteCard } from "./components/newNoteCard";
 import { NoteCard } from "./components/noteCard";
-import { add } from "date-fns";
+
 
 interface Note {
   id: string;

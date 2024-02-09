@@ -64,7 +64,7 @@ export const App = () => {
       : notes;
 
   return (
-    <div className="mx-auto px-20 max-w-6x1 my-12 space-y-6">
+    <div className=" mx-auto p-8 max-w-6x1 my-12 space-y-6">
       <img src={logo} alt="nlw expert" />
 
       <form className="w-full">

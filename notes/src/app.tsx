@@ -3,7 +3,6 @@ import logo from "./assets/Logo-nlw-expert.svg";
 import { NewNoteCard } from "./components/newNoteCard";
 import { NoteCard } from "./components/noteCard";
 
-
 interface Note {
   id: string;
   date: Date;
